@@ -1,5 +1,5 @@
 // include the ArduinoTapTempo library
-#include <ArduinoTapTempo.h>
+#include "ArduinoTapTempo.h"
 
 // define the pin you want to attach your tap button to
 const int BUTTON_PIN = 5;
